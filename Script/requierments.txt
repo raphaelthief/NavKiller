@@ -1,0 +1,8 @@
+pycryptodome
+pywin32
+colorama
+sqlite3 
+base64
+json
+Crypto
+ctypes
