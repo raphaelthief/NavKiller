@@ -24,6 +24,9 @@ Chromium browsers are supported :
 - Slimjet
 - Iridium Browser
 
+**Purpose**
+
+I created this tool with the aim of decrypting data from browsers present on machines where I perform a pentest. When I perform an enumeration on the machine to find possible sensitive data, I include the search for the WebBrowsers present. Our WebBrowsers contain a lot of useful information both for access and for OSINT.
 
 **Usage**
 
